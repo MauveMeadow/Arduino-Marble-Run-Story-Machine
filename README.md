@@ -77,13 +77,6 @@ The code is written in C++ for the Arduino IDE.
 ## 📂 Project Structure
 
 
-```
-
-├── Marble_Run.ino        # Main source code
-└── README.md             # Project documentation
-
-```
-
 ## 👥 Authors & Acknowledgments
 
 **Project Team:**

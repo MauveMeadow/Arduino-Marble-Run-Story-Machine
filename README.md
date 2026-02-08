@@ -4,7 +4,6 @@ It integrates the technical details from your Arduino code (pin definitions, lib
 
 The following README includes a summary of the **Critical Making** project "Chains2Change". It outlines the concept of **Trip Chaining**, where women's travel patterns are often fragmented by care obligations compared to men's linear journeys. The device uses a marble run to visualize this inequality, featuring two characters: **Alex** (linear path) and **Robin** (interrupted path). The code logic provided controls the ultrasonic sensors, LCD storytelling, and audio feedback for the two rounds of interaction: "Unequal Distribution" and "Making It Fair".
 
----
 
 ### **README.md**
 
@@ -73,9 +72,6 @@ The code is written in C++ for the Arduino IDE.
 3.  Upload `Marble_Run.ino` to your Arduino Uno.
 4.  Power the Arduino (via USB or external power).
 5.  Ensure the "Start" sensors are placed at the top of the run and the "End" sensor is at the bottom of Robin's track.
-
-## 📂 Project Structure
-
 
 ## 👥 Authors & Acknowledgments
 

@@ -7,9 +7,6 @@ The following README includes a summary of the **Critical Making** project "Chai
 
 ### **README.md**
 
-You can copy the content below directly into your GitHub `README.md` file.
-
-```markdown
 # Chains2Change: Translating Gendered Trip Chaining into Tangible Experience
 
 **Chains2Change** is an interactive Critical Making artifact designed to visualize and challenge the invisible inequalities of **Trip Chaining** in urban mobility. 
